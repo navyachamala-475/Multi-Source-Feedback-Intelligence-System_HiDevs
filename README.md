@@ -28,13 +28,9 @@ This system helps organizations understand customer sentiment efficiently.
    python src/main.py
 
 ## 💡 Example
-
 Input:
 This product is great and very good
-
 Output:
-<<<<<<< HEAD
 Positive Feedback
-=======
-Positive Feedback
->>>>>>> bfe3dad (Updated README file)
+
+

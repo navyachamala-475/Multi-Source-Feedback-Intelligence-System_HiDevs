@@ -1,1 +1,3 @@
-# Add your project dependencies here
+# No external libraries required
+# This project uses only built-in Python modules
+python>=3.8

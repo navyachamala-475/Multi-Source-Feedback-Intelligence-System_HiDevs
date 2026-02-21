@@ -1,9 +1,36 @@
+
 # Multi-Source Feedback Intelligence System
 
-This project is automatically generated.
+## 📌 Project Description
+The Multi-Source Feedback Intelligence System is a Python-based application that analyzes user feedback and classifies it into Positive, Negative, or Neutral categories.
 
-## Installation
+This system helps organizations understand customer sentiment efficiently.
 
-```sh
-pip install -r requirements.txt
-```
+## 🚀 Features
+- Accepts user feedback input
+- Converts text to lowercase for accurate comparison
+- Detects sentiment using predefined positive and negative keywords
+- Returns sentiment classification result
+
+## 🛠 Technologies Used
+- Python 3
+
+## 📂 Project Structure
+- src/main.py – Main application file
+- requirements.txt – Dependencies file
+- README.md – Project documentation
+
+## ▶ How to Run
+1. Clone the repository
+2. Navigate to project folder
+3. Run the command:
+
+   python src/main.py
+
+## 💡 Example
+
+Input:
+This product is great and very good
+
+Output:
+Positive Feedback
